@@ -1,0 +1,23 @@
+{
+  "id": "1732346",
+  "name": "大粮流向流量后台管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "大粮流向流量后台管理系统",
+  "glyphs": [
+    {
+      "icon_id": "7450599",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "2325936",
+      "name": "添加用户",
+      "font_class": "tianjiayonghu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    }
+  ]
+}
