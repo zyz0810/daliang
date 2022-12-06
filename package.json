@@ -17,7 +17,7 @@
     "file-saver": "^2.0.2",
     "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
-    "qs": "^6.9.0",
+    "qs": "^6.9.7",
     "svg-sprite-loader": "^4.1.6",
     "vue": "^2.5.2",
     "vue-count-to": "^1.0.13",
